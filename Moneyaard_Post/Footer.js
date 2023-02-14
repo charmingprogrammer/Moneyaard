@@ -15,13 +15,13 @@ function footer_Content() {
     </a>
     <div class="footer_box">
     <h3>HELPFUL LINKS</h3>
-    <a href="About_us.html">About Us</a>
-    <a href="contact_us.html">Contact Us</a>
-    <a href="privacy_policy.html">Privacy policy</a>
-    <a href="terms_and_condition.html"
+    <a href="../About_us.html">About Us</a>
+    <a href="../contact_us.html">Contact Us</a>
+    <a href="../privacy_policy.html">Privacy policy</a>
+    <a href="../terms_and_condition.html"
       >Terms & Condition</a
     >
-    <a href="./sitemap.xml">sitmap</a>
+    <a href="../sitemap.xml">sitmap</a>
   </div>
   <div class="footer_box">
     <h3>GET IN TOUCH</h3>
