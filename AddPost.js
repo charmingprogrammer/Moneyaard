@@ -79,5 +79,13 @@ const AllPost = [
         "../Moneyaard_Post/Making_Money_from_Surveys_and_Market_Research_A_Comprehensive_Guide.html",
       alt: "Making Money from Surveys and Market Research: A Comprehensive Guide",
     },
+    {
+      category: "MMT",
+      Title: "50 Proven Ways to Make Money Online: The Ultimate Guide",
+      ImageUrl: "https://moneyaard.com/Moneyaard_Post/Images/50 Proven Ways to Make Money Online The Ultimate Guide.png",
+      PostUrl:
+        "../Moneyaard_Post/50_Proven_Ways_to_Make_Money_Online_The_Ultimate_Guide.html",
+      alt: "50 Proven Ways to Make Money Online: The Ultimate Guide",
+    },
 
 ]
