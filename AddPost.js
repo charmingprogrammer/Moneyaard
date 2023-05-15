@@ -87,5 +87,13 @@ const AllPost = [
         "../Moneyaard_Post/50_Proven_Ways_to_Make_Money_Online_The_Ultimate_Guide.html",
       alt: "50 Proven Ways to Make Money Online: The Ultimate Guide",
     },
+    {
+      category: "MMT",
+      Title: "How to Make Money Online: A Beginner's Guide",
+      ImageUrl: "https://moneyaard.com/Moneyaard_Post/Images/How_to_Make_Money_Online_A_Beginner's_Guide.png",
+      PostUrl:
+        "../Moneyaard_Post/How_to_Make_Money_Online_A_Beginner's_Guide.html",
+      alt: "How to make money online: A beginner's guide",
+    },
 
 ]
