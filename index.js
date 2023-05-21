@@ -29,8 +29,8 @@ function searchNow() {
 
 //inject title from array
 for (var i = 0; i < AllPost.length; i++) {
-document.getElementById('myUL').insertAdjacentHTML(
-      "afterbegin", `
+  document.getElementById('myUL').insertAdjacentHTML(
+    "afterbegin", `
             <li><a href="${AllPost[i].PostUrl}">${AllPost[i].Title}<i class="fas fa-arrow-up" id="arrow"></i></a></li>
       `);
 }
@@ -39,13 +39,13 @@ document.getElementById('myUL').insertAdjacentHTML(
 //user auth script
 
 function user() {
-    document.getElementById('user_login_con').style.bottom = '0';
+  document.getElementById('user_login_con').style.bottom = '0';
 }
 
 function userClose() {
-  document.getElementById('user_login_con').style.bottom = '-100%'; 
+  document.getElementById('user_login_con').style.bottom = '-100%';
 }
 
 setTimeout(() => {
-  document.getElementById('user_login_con').style.bottom='0';
+  document.getElementById('user_login_con').style.bottom = '0';
 }, 5000);
