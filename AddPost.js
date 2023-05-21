@@ -95,5 +95,10 @@ const AllPost = [
         "../Moneyaard_Post/How_to_Make_Money_Online_A_Beginner's_Guide.html",
       alt: "How to make money online: A beginner's guide",
     },
+    {
+      category: "MMT",
+      Title: "5 Online Businesses You Can Start with Zero Investmente",
+      PostUrl:"../Moneyaard_Post/5_Online_Businesses_You_Can_Start_with_Zero _Investment.html",
+    },
 
 ]
