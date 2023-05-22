@@ -108,7 +108,7 @@ const AllPost = [
     {
       category: "MMT",
       Title: "Passive Income Ideas: Unique Ways to Make Money Online",
-      PostUrl:"../Moneyaard_Post/Passive Income Ideas: Unique Ways to Make Money Online.html",
+      PostUrl:"../Moneyaard_Post/Passive_Income_Ideas_Unique_Ways_to_Make_Money_Online.html",
     },
 
 ]
