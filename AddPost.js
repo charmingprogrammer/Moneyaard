@@ -110,5 +110,40 @@ const AllPost = [
       Title: "Passive Income Ideas: Unique Ways to Make Money Online",
       PostUrl:"../Moneyaard_Post/Passive_Income_Ideas_Unique_Ways_to_Make_Money_Online.html",
     },
+    {
+      category: "MMT",
+      Title: "How to Make Money on YouTube: A Beginner's Guide",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_on_YouTube_A_Beginner_Guide.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money on Instagram: A Step-by-Step Guide",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_on_Instagram_A_Step-by-Step_Guide.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money on TikTok: A Beginner's Guide",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_on_TikTok_A_Beginners_Guide.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money with Sponsored Content",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_with_Sponsored_Content.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money with Online Coaching",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_with_Online_Coaching.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money with Online Consulting",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_with_Online_Consulting.html",
+    },
+    {
+      category: "MMT",
+      Title: "How to Make Money with Sponsored Posts on Social Media",
+      PostUrl:"../Moneyaard_Post/How_to_Make_Money_with_Sponsored_Posts_on_Social_Media.html",
+    },
 
 ]
