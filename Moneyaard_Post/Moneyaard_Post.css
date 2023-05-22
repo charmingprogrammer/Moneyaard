@@ -253,7 +253,7 @@ ul, ol {
 }
 .box {
   height: 100%;
-  width: 100%;
+  width: 20%;
   background: white;
   transform: scale(0.97);
   border-radius: 10px;
@@ -458,6 +458,13 @@ footer {
 }
 
 @media only screen and (min-width: 1020px) {
+  .box {
+    height: 100%;
+    width: 100%;
+    background: white;
+    transform: scale(0.97);
+    border-radius: 10px;
+  }
   #cta_Container {
     height: 50px;
     width: 95%;
@@ -521,6 +528,13 @@ footer {
   background-color: #eee;
 }
 @media only screen and (min-width: 700px) {
+  .box {
+    height: 100%;
+    width: 100%;
+    background: white;
+    transform: scale(0.97);
+    border-radius: 10px;
+  }
   #container {
     display: flex;
     justify-content: center;
