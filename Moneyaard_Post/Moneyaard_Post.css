@@ -250,6 +250,7 @@ ul, ol {
   align-items: center;
   overflow: hidden;
   transition: 0.3s ease-in;
+  background: white;
 }
 .box {
   height: 100%;
@@ -270,6 +271,8 @@ ul, ol {
   font-size: larger;
   text-transform: capitalize;
   padding: 10px 5px;
+  text-decoration: underline;
+  cursor: pointer;
 }
 .showMore {
   height: 50px;
