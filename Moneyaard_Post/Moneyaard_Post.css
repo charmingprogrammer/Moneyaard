@@ -11,7 +11,9 @@
 body {
   background: #edecec;
 }
-
+h3{
+  padding: 10px 20px;
+}
 pre {
   padding: 10px 10px;
   width: 100%;
