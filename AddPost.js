@@ -100,5 +100,15 @@ const AllPost = [
       Title: "5 Online Businesses You Can Start with Zero Investmente",
       PostUrl:"../Moneyaard_Post/5_Online_Businesses_You_Can_Start_with_Zero _Investment.html",
     },
+    {
+      category: "MMT",
+      Title: "How to Make Money Blogging: A Step-by-Step Guide",
+      PostUrl:"../Moneyaard_Post/How to Make Money Blogging: A Step-by-Step Guide.html",
+    },
+    {
+      category: "MMT",
+      Title: "Passive Income Ideas: Unique Ways to Make Money Online",
+      PostUrl:"../Moneyaard_Post/Passive Income Ideas: Unique Ways to Make Money Online.html",
+    },
 
 ]
