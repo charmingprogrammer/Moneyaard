@@ -145,5 +145,10 @@ const AllPost = [
       Title: "How to Make Money with Sponsored Posts on Social Media",
       PostUrl:"../Moneyaard_Post/How_to_Make_Money_with_Sponsored_Posts_on_Social_Media.html",
     },
+    {
+      category: "MMT",
+      Title: "Virat Kohli Memes: Former Captain Shares Cryptic Message on Instagram Story; Dig at Viral Memes Against Him",
+      PostUrl:"../Moneyaard_Post/Virat_Kohli Memes_Former_Captain_Shares_Cryptic_Message_on_Instagram_Story_Dig_at_Viral Memes_Against_Him.html",
+    },
 
 ]
