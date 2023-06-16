@@ -8,6 +8,10 @@
   transition: .1s ease;
 }
 
+#topics {
+  
+}
+
 body {
   background: #edecec;
 }
@@ -40,6 +44,7 @@ pre {
   background: none;
   color: black;
   border-left: 2px solid #00a0ff;
+  color: dodgerblue;
 }
 #topics li a:hover {
   background: #00a0ff78;
@@ -211,9 +216,7 @@ nav {
   width: 100%;
   background: white;
 }
-ul, ol {
-  padding: 1px 40px;
-}
+
 .postContainer h1 {
   padding: 10px 20px;
   font-size: 24px;
@@ -222,6 +225,8 @@ ul, ol {
   padding: 10px 20px;
   text-transform: capitalize;
   position: sticky;
+  z-index: 1334567;
+  background: white;
 }
 .postContainer p {
   padding: 10px 20px;
@@ -243,16 +248,22 @@ ul, ol {
   width: 100%;
   border-radius: 10px;
 }
+.postContainer ol{
+  padding: 10px 40px;
+}
 #postSuggestionContainer {
   height: 100%;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
   overflow: hidden;
   transition: 0.3s ease-in;
   background: white;
+}
+#postSuggestionContainer h2{
+  background: none;
 }
 .box {
   height: 100%;
@@ -419,7 +430,7 @@ footer {
 .footer_box a {
   display: flex;
   text-decoration: none;
-  padding: 5px 0px;
+  padding: 5px 20px;
 }
 .footer_box a:hover {
   color: #399b53;
@@ -529,9 +540,7 @@ footer {
   color: black;
   display: block;
 }
-#myUL li a:hover:not(.header) {
-  background-color: #eee;
-}
+
 @media only screen and (min-width: 700px) {
   .box {
     height: 100%;
