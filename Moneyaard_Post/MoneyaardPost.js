@@ -97,7 +97,7 @@ const searchInput = document.getElementById("searchInput");
 const myUL = document.getElementById("myUL");
 const li = myUL.querySelectorAll('li');
 
-DarkModeOff();
+DarkModeOn();
 function DarkModeOn() {
   body.style.background = '#141518f7';
   nav.style.background = '#141518';
@@ -126,6 +126,16 @@ function DarkModeOn() {
   for (let i = 0; i < footer_a_tags.length; i++) {
     footer_a_tags[i].style.color = 'white';
   }
+  
+  //All h2 dark and white mode
+const post_container_dark = document.
+querySelector('.postContainer');
+
+const h2 = container.getElementsByTagName('h2');
+
+for (var i = 0; i < h2.length; i++) {
+h2[i].style.background = "#141518";
+}
 
   document.getElementById("DarkOn").style.background = "";
   document.getElementById("DarkOff").style.background = "#399b53";
@@ -159,6 +169,18 @@ function DarkModeOff() {
   for (let i = 0; i < footer_a_tags.length; i++) {
     footer_a_tags[i].style.color = '';
   }
+  
+    //All h2 dark and white mode
+
+const post_container_dark = document.
+
+querySelector('.postContainer');
+
+const h2 = container.getElementsByTagName('h2');
+
+for (var i = 0; i < h2.length; i++) {
+h2[i].style.background = "white";
+}
   document.getElementById("DarkOn").style.background = "#399b53";
   document.getElementById("DarkOff").style.background = "";
 }
