@@ -216,6 +216,9 @@ nav {
   width: 100%;
   background: white;
 }
+.postContainer table {
+  padding: 10px 20px;
+}
 
 .postContainer h1 {
   padding: 10px 20px;
