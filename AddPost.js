@@ -160,6 +160,11 @@ const AllPost = [
       Title: "Monetize Your YouTube channel without completing 1000 Subscribers and 4000 watch time. | YouTube Update 2023 (Latest)",
       PostUrl:"../Moneyaard_Post/Monetize-YouTube-Channel-Without-1000-Subscribers-4000-Watch-Time-YT-Update-2023.html",
     },
+    {
+      category: "MMT",
+      Title: "How did Andrew Tate make his money",
+      PostUrl:"../Moneyaard_Post/How-did-Andrew-Tate-make-his-money.html",
+    },
     
 
 ]
