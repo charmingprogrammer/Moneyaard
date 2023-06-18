@@ -254,6 +254,9 @@ nav {
 .postContainer ol{
   padding: 10px 40px;
 }
+.postContainer li{
+  padding:10px 40px ;
+}
 #postSuggestionContainer {
   height: 100%;
   width: 100%;
