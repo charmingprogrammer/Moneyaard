@@ -175,6 +175,11 @@ const AllPost = [
       Title: "How to make money with Google AdSense",
       PostUrl:"../Moneyaard_Post/How-to-make-money-with-Google-AdSense.html",
     },
+    {
+      category: "MMT",
+      Title: "How to make money with Google AdWords",
+      PostUrl:"../Moneyaard_Post/How-to-make-money-with-Google-AdWords.html",
+    },
     
 
 ]
