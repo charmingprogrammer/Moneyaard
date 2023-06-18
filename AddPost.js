@@ -165,6 +165,11 @@ const AllPost = [
       Title: "How did Andrew Tate make his money",
       PostUrl:"../Moneyaard_Post/How-did-Andrew-Tate-make-his-money.html",
     },
+    {
+      category: "MMT",
+      Title: "How to make money with podcasting",
+      PostUrl:"../Moneyaard_Post/How-to-make-money-with-podcasting.html",
+    },
     
 
 ]
