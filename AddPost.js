@@ -180,6 +180,11 @@ const AllPost = [
       Title: "How to make money with Google AdWords",
       PostUrl:"../Moneyaard_Post/How-to-make-money-with-Google-AdWords.html",
     },
+    {
+      category: "MMT",
+      Title: "How to Never Be Jobless Again: Your Ultimate Guide to Securing Employment",
+      PostUrl:"../Moneyaard_Post/How-to-Never-Be-jobless-Again.html.html",
+    },
     
 
 ]
